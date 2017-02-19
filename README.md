@@ -10,6 +10,6 @@ Content in the first column | Content in the second column
 
 Table 2:
 First Hdr | Second HDR
----|---
+----------|---
 col 1 cell 1 | col 2 cell 2
 col 1 cell 3 | col 2 cell 4
